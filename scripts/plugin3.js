@@ -62,7 +62,7 @@ $(function () {
             'role': "role-0"
         }, {
             'id': 15,
-            'name': "Chief Clinical Information Officer",
+            'name': "CCIO (Chief Clinical Info. Officer)",
             'role': "role-4"
         }, {
             'id': 16,
@@ -138,11 +138,11 @@ $(function () {
             'role': "role-3"
         }, {
             'id': 34,
-            'name': "General Practioner",
+            'name': "GP",
             'role': "role-1"
         }, {
             'id': 35,
-            'name': "Health Care Assistant",
+            'name': "HCA",
             'role': "role-0"
         }, {
             'id': 36,
@@ -386,6 +386,10 @@ $(function () {
             'role': "role-1"
         }
 
+    
+
+    
+    
     ];
       
         var productNames = [];
@@ -490,30 +494,4 @@ $(function () {
 
     };
     
-
-
-
-
-    //$.fn.FilterFunction = function() { 
-    //    $('.role-0').click( function() {    
-    //        alert("hi-test-role-0");
-    //    });
-
-    //    $('.role-1').click( function() {    
-    //        alert("hi-test-role-1");
-    //    });
-
-    //    $('.role-2').click( function() {    
-    //        alert("hi-test-role-2");
-    //    });
-
-    //    $('.role-3').click( function() {    
-    //        alert("hi-test-role-3");
-    //    });
-
-    //    $('.role-4').click( function() {    
-    //        alert("hi-test-role-4");
-    //    });
-    //};
-
 });	
