@@ -123,6 +123,7 @@ $(function () {
         }, {
             'id': 30,
             'name': "Consultant",
+            'synonym': "Surgeon",
             'role': "role-1"
         }, {
             'id': 31,
@@ -138,11 +139,13 @@ $(function () {
             'role': "role-3"
         }, {
             'id': 34,
-            'name': "GP",
+            'name': "General Practioner",
+            'synonym': "GP",
             'role': "role-1"
         }, {
             'id': 35,
-            'name': "HCA",
+            'name': "Health Care Assistant",
+            'synonym': "HCA",
             'role': "role-0"
         }, {
             'id': 36,
@@ -155,6 +158,7 @@ $(function () {
         }, {
             'id': 38,
             'name': "Head of Information",
+            'synonym': "HOI",
             'role': "role-3"
         }, {
             'id': 39,
