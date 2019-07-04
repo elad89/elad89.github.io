@@ -63,7 +63,7 @@ $(function () {
         }, {
             'id': 15,
             'name': "Chief Clinical Information Officer",
-            'synonyms': "CCIO"
+            'synonyms': "CCIO",
             'role': "role-4"
         }, {
             'id': 16,
@@ -247,7 +247,7 @@ $(function () {
         }, {
             'id': 59,
             'name': "Junior Doctor",
-            'synonyms': "Jnr Doctor"
+            'synonyms': "Jnr Doctor",
             'role': "role-1"
         }, {
             'id': 60,
