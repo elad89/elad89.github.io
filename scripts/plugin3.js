@@ -62,7 +62,8 @@ $(function () {
             'role': "role-0"
         }, {
             'id': 15,
-            'name': "CCIO (Chief Clinical Info. Officer)",
+            'name': "Chief Clinical Information Officer",
+            'synonyms': "CCIO"
             'role': "role-4"
         }, {
             'id': 16,
@@ -123,7 +124,7 @@ $(function () {
         }, {
             'id': 30,
             'name': "Consultant",
-            'synonym': "Surgeon",
+            'synonyms': "Surgeon",
             'role': "role-1"
         }, {
             'id': 31,
@@ -140,12 +141,12 @@ $(function () {
         }, {
             'id': 34,
             'name': "General Practioner",
-            'synonym': "GP",
+            'synonyms': "GP",
             'role': "role-1"
         }, {
             'id': 35,
             'name': "Health Care Assistant",
-            'synonym': "HCA",
+            'synonyms': "HCA",
             'role': "role-0"
         }, {
             'id': 36,
@@ -158,7 +159,7 @@ $(function () {
         }, {
             'id': 38,
             'name': "Head of Information",
-            'synonym': "HOI",
+            'synonyms': "HOI",
             'role': "role-3"
         }, {
             'id': 39,
@@ -219,14 +220,17 @@ $(function () {
         }, {
             'id': 53,
             'name': "Information Governance Assistant",
+            'synonyms': "IG Assistant",
             'role': "role-0"
         }, {
             'id': 54,
             'name': "Information Governance Manager",
+            'synonyms': "IG Manager",
             'role': "role-0"
         }, {
             'id': 55,
             'name': "Information Governance Officer",
+            'synonyms': "IG Officer",
             'role': "role-0"
         }, {
             'id': 56,
@@ -243,6 +247,7 @@ $(function () {
         }, {
             'id': 59,
             'name': "Junior Doctor",
+            'synonyms': "Jnr Doctor"
             'role': "role-1"
         }, {
             'id': 60,
@@ -267,6 +272,7 @@ $(function () {
         }, {
             'id': 65,
             'name': "Nursing Assistant",
+            'synonyms': "NA",
             'role': "role-0"
         }, {
             'id': 66,
@@ -390,10 +396,6 @@ $(function () {
             'role': "role-1"
         }
 
-    
-
-    
-    
     ];
       
         var productNames = [];
