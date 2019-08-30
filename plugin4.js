@@ -538,7 +538,7 @@ $(function () {
 
     $.ajax({
         beforeSend: function(request) {
-            request.setRequestHeader("secret-key", '$2a$10$rqGTBVwwpPlCqDGEbM6q9.nw481Qc98XeiXt4/EP/vhkNh0yVVg8.');
+            request.setRequestHeader("secret-key", '$2a$10$9JA4NFd8Y7mNml1NfahZD.oAomCMCixRnlRcdoRLE1fKWs.DRSw/e');
         },
         
         dataType: "json",
